@@ -1,0 +1,9 @@
+{
+  "name": "my-component",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "nib-styles/v2-icons": "1.2.3"
+  }
+}

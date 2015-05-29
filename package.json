@@ -1,0 +1,23 @@
+{
+  "name": "component-to-browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "extend": "^2.0.1",
+    "go-fetch": "^2.1.0",
+    "go-fetch-content-type": "^0.3.0",
+    "go-fetch-parse-body": "^2.2.1",
+    "go-fetch-useragent": "^1.0.0",
+    "nodegit": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
