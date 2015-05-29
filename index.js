@@ -13,9 +13,9 @@
 
 var Component = require('./lib/Component');
 var component = new Component(
-  'git@github.com:nib-styles/v2-typography.git',
-  'C:\\Development\\Github\\nib-styles\\v2-typography',
-  require('C:\\Development\\Github\\nib-styles\\v2-typography\\component.json')
+  'git@github.com:nib-health-funds/after-animation.git',
+  'C:\\Development\\Github\\nib-health-funds\\after-animation',
+  require('C:\\Development\\Github\\nib-health-funds\\after-animation\\component.json')
 );
 
 var convert = require('./lib/manifest').convert;
